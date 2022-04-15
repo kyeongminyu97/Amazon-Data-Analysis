@@ -16,9 +16,10 @@ Explores correlations between price, rating, review count, description length an
 
 ### Some Tableau visualisations
 <p align="center">
+<img width="608" alt="Screenshot 2022-04-15 at 01 49 54" src="https://user-images.githubusercontent.com/71874390/163527932-d0d88241-d63d-4163-99e6-bbad32ce6720.png">
 <img width="800" alt="Screenshot 2022-04-15 at 01 38 47" src="https://user-images.githubusercontent.com/71874390/163527487-0d3a90a5-ef6e-4652-b53e-f692256eaf77.png">
-
-<img width="800" alt="Screenshot 2022-04-15 at 01 41 17" src="https://user-images.githubusercontent.com/71874390/163527507-661781c5-c4c4-462e-bb94-fd51635964e4.png">
-
-<img width="800" alt="Screenshot 2022-04-15 at 01 45 21" src="https://user-images.githubusercontent.com/71874390/163527523-67e1825c-e475-420c-9d8b-73841a50c540.png">
+<img width="800" alt="Screenshot 2022-04-15 at 01 58 28" src="https://user-images.githubusercontent.com/71874390/163527901-06ea88f0-382e-4a9f-8aff-44d2113ea68c.png">
+<img width="800" alt="Screenshot 2022-04-15 at 01 58 40" src="https://user-images.githubusercontent.com/71874390/163527906-53625476-c35e-4485-9a18-75a66c508ab0.png">
 </p>
+
+Image Quality and Review Count Show (relatively) strongest correlation
