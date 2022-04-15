@@ -23,3 +23,5 @@ Explores correlations between price, rating, review count, description length an
 </p>
 
 Image Quality and Review Count Show (relatively) strongest correlation
+
+Further visualisations carried out using matplotlib and sns in notebook
